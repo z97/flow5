@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "id": "73b54339905cb348d52a200d",
+            "title": "Title1",
+            "type": "Gold_Rings",
+            "option": [
+              "silver",
+              "gold"
+            ],
+            "seller": "Jean Lao",
+            "description": "It is a beautiful gold ring for ladys",
+            "price": "130",
+            "dateCreated": "2021-12-14T11:39:05",
+            "urls": [
+              "https://www.picture.com/url?sa=i&url",
+              "https://www.picture.com/url?sa=i&url"
+            ]
+          },
+          {
+            "id": "73b5433990512348d52a200d",
+            "title": "Title2",
+            "type": "Earrings",
+            "option": [
+              "silver",
+              "gold"
+            ],
+            "seller": "Jean Lao",
+            "description": "It is a beautiful earring for ladys",
+            "price": "130",
+            "dateCreated": "2021-12-14T11:39:05",
+            "urls": [
+              "https://www.picture.com/url?sa=i&url",
+              "https://www.picture.com/url?sa=i&url"
+            ]
+          }
+    ],
+    "users": [
+        {
+            "login": "WollyPro",
+            "password": "12345",
+            "firstName": "Sveta",
+            "lastName": "Socolova",
+            "phone": "050-123-0123",
+            "mail": "wollyPro@gmail.com",
+            "addresses": [
+              {
+                "index": "95673",
+                "city": "CA",
+                "street": "Evergreen rd.",
+                "building": 209
+              }
+            ],
+            "roles": [
+              "user"
+            ]
+          }
+    ],
+    "messages": {
+        "id": "61b86639905cb348d52a138d",
+        "title": "Title1",
+        "author": "Jean Lao",
+        "content": "Hello, do you want to do an order?",
+        "tags": [
+          "Ring",
+          "Gold"
+        ],
+        "likes": "0",
+        "dateCreated": "2021-12-14T11:39:05",
+        "read": "false",
+        "stared": "false",
+        "sent": "false"
+      }
+  }
